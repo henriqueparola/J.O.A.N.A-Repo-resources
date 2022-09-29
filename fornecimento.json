@@ -3,7 +3,7 @@
 		{
 			"id": "0001",
 			"name": "Pedro",
-			"provider_pic": "random1",
+			"provider_pic": "random1.jpg",
 	    "description": "Com muito amor e gratidão",
 	    "pictures": ["foto1","foto2","foto3"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
@@ -13,7 +13,7 @@
 		{
 			"id": "0002",
 			"name": "João",
-			"provider_pic": "random2",
+			"provider_pic": "random2.jpg",
 	    "description": "Para melhorar o mundo <3",
 	    "pictures": ["foto4","foto5","foto6"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
@@ -23,7 +23,7 @@
 		{
 			"id": "0003",
 			"name": "Roberto",
-			"provider_pic": "random3",
+			"provider_pic": "random3.jpg",
 	    "description": "Braga sem fome! Uhulll",
 	    "pictures": ["foto7","foto8","foto9"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
@@ -33,7 +33,7 @@
 		{
 			"id": "0004",
 			"name": "Thiago",
-			"provider_pic": "random4",
+			"provider_pic": "random4.jpg",
 	    "description": "Sempre a ajudar o próximo.",
 	    "pictures": ["foto10","foto11","foto12"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
@@ -43,7 +43,7 @@
 		{
 			"id": "0005",
 			"name": "Letícia",
-			"provider_pic": "random5",
+			"provider_pic": "random5.jpg",
 	    "description": "Para quem precisa <<<3333",
 	    "pictures": ["foto13","foto14","foto15"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
@@ -53,7 +53,7 @@
 		{
 			"id": "0006",
 			"name": "Mateus",
-			"provider_pic": "random6",
+			"provider_pic": "random6.jpg",
 	    "description": "Lamaçães sem fome! let's go!",
 	    "pictures": ["foto16","foto17","foto18"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
@@ -63,7 +63,7 @@
 		{
 			"id": "0007",
 			"name": "Maria",
-			"provider_pic": "random7",
+			"provider_pic": "random7.jpg",
 	    "description": "Sem fome = paz",
 	    "pictures": ["foto19","foto20","foto21"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
