@@ -1,65 +1,67 @@
-[
-	{
-		"id": "0001",
-		"name": "Pedro",
-    "description": "Com muito amor e gratidão",
-    "pictures": ["foto1","foto2","foto3"],
-    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
-    "address": "Rua 1, nº 25",
-    "title":"Jantar do bom!"
-	},
-	{
-		"id": "0002",
-		"name": "João",
-    "description": "Para melhorar o mundo <3",
-    "pictures": ["foto4","foto5","foto6"],
-    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
-    "address": "Rua 2, nº 31",
-    "title":"Almoço clássico!"
-	},
-	{
-		"id": "0003",
-		"name": "Roberto",
-    "description": "Braga sem fome! Uhulll",
-    "pictures": ["foto7","foto8","foto9"],
-    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
-    "address": "Rua 3, nº 13",
-    "title":"Lanche da tarde!"
-	},
-	{
-		"id": "0004",
-		"name": "Thiago",
-    "description": "Sempre a ajudar o próximo.",
-    "pictures": ["foto10","foto11","foto12"],
-    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
-    "address": "Rua 4, nº 45",
-    "title":"Jantinha Brasileira"
-	},
-	{
-		"id": "0005",
-		"name": "Letícia",
-    "description": "Para quem precisa <<<3333",
-    "pictures": ["foto13","foto14","foto15"],
-    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
-    "address": "Rua 5, nº 67",
-    "title":"Café da manhã italiano"
-	},
-	{
-		"id": "0006",
-		"name": "Mateus",
-    "description": "Lamaçães sem fome! let's go!",
-    "pictures": ["foto16","foto17","foto18"],
-    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
-    "address": "Rua 6, nº 23",
-    "title":"Para qualquer refeição"
-	},
-	{
-		"id": "0007",
-		"name": "Maria",
-    "description": "Sem fome = paz",
-    "pictures": ["foto19","foto20","foto21"],
-    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
-    "address": "Rua 7, nº 14",
-    "title":"Janta francesa"
-	}
-]
+{
+	"supplies": [
+		{
+			"id": "0001",
+			"name": "Pedro",
+	    "description": "Com muito amor e gratidão",
+	    "pictures": ["foto1","foto2","foto3"],
+	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+	    "address": "Rua 1, nº 25",
+	    "title":"Jantar do bom!"
+		},
+		{
+			"id": "0002",
+			"name": "João",
+	    "description": "Para melhorar o mundo <3",
+	    "pictures": ["foto4","foto5","foto6"],
+	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+	    "address": "Rua 2, nº 31",
+	    "title":"Almoço clássico!"
+		},
+		{
+			"id": "0003",
+			"name": "Roberto",
+	    "description": "Braga sem fome! Uhulll",
+	    "pictures": ["foto7","foto8","foto9"],
+	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+	    "address": "Rua 3, nº 13",
+	    "title":"Lanche da tarde!"
+		},
+		{
+			"id": "0004",
+			"name": "Thiago",
+	    "description": "Sempre a ajudar o próximo.",
+	    "pictures": ["foto10","foto11","foto12"],
+	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+	    "address": "Rua 4, nº 45",
+	    "title":"Jantinha Brasileira"
+		},
+		{
+			"id": "0005",
+			"name": "Letícia",
+	    "description": "Para quem precisa <<<3333",
+	    "pictures": ["foto13","foto14","foto15"],
+	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+	    "address": "Rua 5, nº 67",
+	    "title":"Café da manhã italiano"
+		},
+		{
+			"id": "0006",
+			"name": "Mateus",
+	    "description": "Lamaçães sem fome! let's go!",
+	    "pictures": ["foto16","foto17","foto18"],
+	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+	    "address": "Rua 6, nº 23",
+	    "title":"Para qualquer refeição"
+		},
+		{
+			"id": "0007",
+			"name": "Maria",
+	    "description": "Sem fome = paz",
+	    "pictures": ["foto19","foto20","foto21"],
+	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+	    "address": "Rua 7, nº 14",
+	    "title":"Janta francesa"
+		}
+	]
+}
