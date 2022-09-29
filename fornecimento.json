@@ -5,7 +5,7 @@
 			"name": "Pedro",
 			"provider_pic": "random1.jpg",
 	    "description": "Com muito amor e gratidão",
-	    "pictures": ["foto1","foto2","foto3"],
+	    "pictures": ["comida1.jpg","comida2.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 1, nº 25",
 	    "title":"Jantar do bom!"
@@ -15,7 +15,7 @@
 			"name": "João",
 			"provider_pic": "random2.jpg",
 	    "description": "Para melhorar o mundo <3",
-	    "pictures": ["foto4","foto5","foto6"],
+	    "pictures": ["comida3.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 2, nº 31",
 	    "title":"Almoço clássico!"
@@ -25,7 +25,7 @@
 			"name": "Roberto",
 			"provider_pic": "random3.jpg",
 	    "description": "Braga sem fome! Uhulll",
-	    "pictures": ["foto7","foto8","foto9"],
+	    "pictures": ["comida4.jpg","comida5.jpg","comida6.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 3, nº 13",
 	    "title":"Lanche da tarde!"
@@ -35,7 +35,7 @@
 			"name": "Thiago",
 			"provider_pic": "random4.jpg",
 	    "description": "Sempre a ajudar o próximo.",
-	    "pictures": ["foto10","foto11","foto12"],
+	    "pictures": ["comida7.jpg","comida8.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 4, nº 45",
 	    "title":"Jantinha Brasileira"
@@ -45,7 +45,7 @@
 			"name": "Letícia",
 			"provider_pic": "random5.jpg",
 	    "description": "Para quem precisa <<<3333",
-	    "pictures": ["foto13","foto14","foto15"],
+	    "pictures": ["comida9.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 5, nº 67",
 	    "title":"Café da manhã italiano"
@@ -55,7 +55,7 @@
 			"name": "Mateus",
 			"provider_pic": "random6.jpg",
 	    "description": "Lamaçães sem fome! let's go!",
-	    "pictures": ["foto16","foto17","foto18"],
+	    "pictures": ["comida10.jpg","comida11.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 6, nº 23",
 	    "title":"Para qualquer refeição"
@@ -65,7 +65,7 @@
 			"name": "Maria",
 			"provider_pic": "random7.jpg",
 	    "description": "Sem fome = paz",
-	    "pictures": ["foto19","foto20","foto21"],
+	    "pictures": ["comida12.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 7, nº 14",
 	    "title":"Janta francesa"
