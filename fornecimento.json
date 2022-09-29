@@ -1,0 +1,65 @@
+[
+	{
+		id: "0001",
+		nome: "Pedro",
+    descricao: "Com muito amor e gratidão",
+    fotos: ["foto1","foto2","foto3"],
+    data: "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+    endereco: "Rua 1, nº 25",
+    titulo:"Jantar do bom!"
+	},
+	{
+		id: "0002",
+		nome: "João",
+    descricao: "Para melhorar o mundo <3",
+    fotos: ["foto4","foto5","foto6"],
+    data: "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+    endereco: "Rua 2, nº 31",
+    titulo:"Almoço clássico!"
+	},
+	{
+		id: "0003",
+		nome: "Roberto",
+    descricao: "Braga sem fome! Uhulll",
+    fotos: ["foto7","foto8","foto9"],
+    data: "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+    endereco: "Rua 3, nº 13",
+    titulo:"Lanche da tarde!"
+	},
+	{
+		id: "0004",
+		nome: "Thiago",
+    descricao: "Sempre a ajudar o próximo.",
+    fotos: ["foto10","foto11","foto12"],
+    data: "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+    endereco: "Rua 4, nº 45",
+    titulo:"Jantinha Brasileira"
+	},
+	{
+		id: "0005",
+		nome: "Letícia",
+    descricao: "Para quem precisa <<<3333",
+    fotos: ["foto13","foto14","foto15"],
+    data: "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+    endereco: "Rua 5, nº 67",
+    titulo:"Café da manhã italiano"
+	},
+	{
+		id: "0006",
+		nome: "Mateus",
+    descricao: "Lamaçães sem fome! let's go!",
+    fotos: ["foto16","foto17","foto18"],
+    data: "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+    endereco: "Rua 6, nº 23",
+    titulo:"Para qualquer refeição"
+	},
+	{
+		id: "0007",
+		nome: "Maria",
+    descricao: "Sem fome = paz",
+    fotos: ["foto19","foto20","foto21"],
+    data: "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+    endereco: "Rua 7, nº 14",
+    titulo:"Janta francesa"
+	},
+]
