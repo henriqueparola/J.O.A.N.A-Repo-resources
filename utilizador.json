@@ -1,8 +1,8 @@
 {
-  id: "0008",
-  nome: "Fabiana",
-  foto: "foto22",
-  estrelas: 4.7,
-  descricao: "Por um mundo melhor",
-  endereco: "Rua 19, nº14" 
+  "id": "0008",
+  "nome": "Fabiana",
+  "foto": "foto22",
+  "estrelas": 4.7,
+  "descricao": "Por um mundo melhor",
+  "endereco": "Rua 19, nº14" 
 },
