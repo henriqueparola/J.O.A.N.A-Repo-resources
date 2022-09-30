@@ -1,7 +1,9 @@
 {
-  "id": "0008",
-  "username": "Fabiana",
-  "picture": "foto22",
-  "description": "Por um mundo melhor",
-  "address": "Rua 19, nº14" 
+  "user":{
+    "id": "0008",
+    "username": "Fabiana",
+    "picture": "foto22",
+    "description": "Por um mundo melhor",
+    "address": "Rua 19, nº14" 
+  }
 }
