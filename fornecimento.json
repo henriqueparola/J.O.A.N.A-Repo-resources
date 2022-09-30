@@ -8,7 +8,8 @@
 	    "pictures": ["comida1.jpg","comida2.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 1, nº 25",
-	    "title":"Jantar do bom!"
+	    "title":"Jantar do bom!",
+		"state": "fa"
 		},
 		{
 			"id": "0002",
@@ -18,7 +19,8 @@
 	    "pictures": ["comida3.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 2, nº 31",
-	    "title":"Almoço clássico!"
+	    "title":"Almoço clássico!",
+			"state":"ac"
 		},
 		{
 			"id": "0003",
@@ -28,7 +30,8 @@
 	    "pictures": ["comida4.jpg","comida5.jpg","comida6.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 3, nº 13",
-	    "title":"Lanche da tarde!"
+	    "title":"Lanche da tarde!",
+			"state":"fa"
 		},
 		{
 			"id": "0004",
@@ -38,7 +41,8 @@
 	    "pictures": ["comida7.jpg","comida8.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 4, nº 45",
-	    "title":"Jantinha Brasileira"
+	    "title":"Jantinha Brasileira",
+			"state":"ac"
 		},
 		{
 			"id": "0005",
@@ -48,7 +52,8 @@
 	    "pictures": ["comida9.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 5, nº 67",
-	    "title":"Café da manhã italiano"
+	    "title":"Café da manhã italiano",
+			"state":"er"
 		},
 		{
 			"id": "0006",
@@ -58,7 +63,8 @@
 	    "pictures": ["comida10.jpg","comida11.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 6, nº 23",
-	    "title":"Para qualquer refeição"
+	    "title":"Para qualquer refeição",
+			"state":"er"
 		},
 		{
 			"id": "0007",
@@ -68,7 +74,8 @@
 	    "pictures": ["comida12.jpg"],
 	    "data": "Thu Sep 29 2022 09:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
 	    "address": "Rua 7, nº 14",
-	    "title":"Janta francesa"
+	    "title":"Janta francesa",
+			"state":"de"
 		}
 	]
 }
